@@ -155,10 +155,12 @@ z-index: 1;
     width: 40%;
     line-height: 70px;
     z-index: 2;
+    cursor: default;
 }
 
 .text {
     z-index: 2;
+    cursor: default;
 }
 
 .text p {
